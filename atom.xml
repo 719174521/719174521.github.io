@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://719174521.github.io</id>
+    <title>maki的小屋</title>
+    <subtitle>生活不易</subtitle>
+    <icon>http://719174521.github.io/images/favicon.ico</icon>
+    <link href="http://719174521.github.io" />
+    <author>
+      <name>maki</name>
+    </author>
+    <updated>2021-06-07T10:05:13.271Z</updated>
+    <category term="博客" />
+    <category term="学习" />
+    <category term="日常" />
+    <category term="游戏" />
+    <category term="分享" />
+</feed>

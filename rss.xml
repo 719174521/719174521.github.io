@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>maki的小屋</title>
+        <subtitle>生活不易</subtitle>
+        <icon>http://719174521.github.io/images/favicon.ico</icon>
+        <link>http://719174521.github.io</link>
+        <author>
+          <name>maki</name>
+        </author>
+        <description>欢迎来到我的博客空间</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 07 Jun 2021 18:05:13 +0800</pubDate>
+        <lastBuildDate>Mon, 07 Jun 2021 18:05:13 +0800</lastBuildDate>
+        <category term="博客" />
+        <category term="学习" />
+        <category term="日常" />
+        <category term="游戏" />
+        <category term="分享" />
+    </channel>
+</rss>
